@@ -11,8 +11,10 @@ Este repositório contém as atividades práticas desenvolvidas durante a discip
 Este espaço é reservado para o registro dos tempos de execução do script `benchmark_inicial.py`.
 
 > **Meu Benchmark:**
-> - **Processador:** [Insira seu modelo de CPU aqui]
-> - **Tempo:** [Insira o tempo aqui]s
+> - **Processador:** i5 13500
+> - **Tempo:** 1000 000 000 -  53.3487 segundos.
+10 000 000 - 4.3630 segundos.
+1 000 - 0.3230 segundos.
 
 ## Como executar
 1. Clone o repositório:
